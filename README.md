@@ -4,7 +4,7 @@ A centralized dashboard for accessing my coding, learning, data, and freelance p
 
 ## Live
 
-https://aaqib-hafeez-khan-in.github.io/MyTechAccounts/
+https://aaqibhafeezkhan.github.io/MyTechAccounts/
 
 ## Highlights
 
